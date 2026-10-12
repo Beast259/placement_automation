@@ -1,0 +1,3 @@
+2026-10-12 14:33:39,382 - INFO - Starting company scraping...
+2026-10-12 14:33:39,383 - INFO - Created sample URLs file: dummy.txt
+2026-10-12 14:33:39,383 - WARNING - No company data scraped.
